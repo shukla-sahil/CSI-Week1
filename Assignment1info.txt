@@ -1,0 +1,1 @@
+Use npm i to install all dependencies in the project before running the project 
